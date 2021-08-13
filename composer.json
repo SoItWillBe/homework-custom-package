@@ -1,7 +1,6 @@
 {
     "name": "so-it-will-be-php/homework-3",
     "description": "Homework 3. PHP-CLI",
-    "type": "project",
     "require": {
         "php": ">=7.3.0"
     },
@@ -11,7 +10,7 @@
             "email": "work.vladshamrai@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Otus\\homework\\": "src/"
