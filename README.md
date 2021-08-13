@@ -1,8 +1,10 @@
 # homework-custom-package
 
-### Usage
+## Usage
 
-## Add following code to your app:
+### Add following code to your app:
+
+```
 
 use Otus\homework\App;
 
@@ -17,3 +19,5 @@ try {
 } catch(Exception $e) {
     echo $e->getMessage();
 }
+
+```
