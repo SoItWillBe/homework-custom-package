@@ -5,6 +5,12 @@ use Otus\homework\App;
 
 require 'vendor/autoload.php';
 
-$a = new App();
+try {
+    
+    $app = new App();
 
-echo $a->run();
+    echo $app->run();
+
+} catch(Exception $e) {
+    echo $e->getMessage();
+}
