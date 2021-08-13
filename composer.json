@@ -10,7 +10,6 @@
             "email": "work.vladshamrai@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Otus\\homework\\": "src/"
