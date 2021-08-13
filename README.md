@@ -2,9 +2,17 @@
 
 ## Usage
 
-### Add following code to your app:
+### Require package:
+```
+composer require so-it-will-be-php/homework-3
+```
+
+
+### Add following code to your index.php file:
 
 ```
+<?php
+
 require 'vendor/autoload.php';
 
 use Otus\homework\App;
