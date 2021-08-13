@@ -5,10 +5,9 @@
 ### Add following code to your app:
 
 ```
+require 'vendor/autoload.php';
 
 use Otus\homework\App;
-
-require 'vendor/autoload.php';
 
 try {
     
