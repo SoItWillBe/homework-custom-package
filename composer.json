@@ -1,6 +1,7 @@
 {
     "name": "so-it-will-be-php/homework-3",
     "description": "Homework 3. PHP-CLI",
+    "type": "package",
     "require": {
         "php": ">=7.3.0"
     },
